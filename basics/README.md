@@ -10,3 +10,4 @@ Move the betty file
 Delete the betty file
 Delete the directory
 Go back
+List all files in current dir, parent of working dir and the /boot
