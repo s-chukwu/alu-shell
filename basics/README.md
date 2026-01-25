@@ -1,1 +1,3 @@
-This is the readme file for basic, to print the current working directory
+This is the readme file for basic;
+To print the current working directory
+To list the directory content
