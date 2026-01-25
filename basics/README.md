@@ -13,3 +13,4 @@ Go back
 List all files in current dir, parent of working dir and the /boot
 prints the type of file
 creates symbolic lin to bin/ls
+copy the html files
