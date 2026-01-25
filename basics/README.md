@@ -15,3 +15,4 @@ prints the type of file
 creates symbolic lin to bin/ls
 copy the html files
 moves uppercase files
+deletes all files ending with ~ in current working dir
