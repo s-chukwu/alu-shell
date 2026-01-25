@@ -3,3 +3,4 @@ To print the current working directory
 To list the directory content
 Change to home directory
 Lists the directory contents
+Lists all hidden files 
