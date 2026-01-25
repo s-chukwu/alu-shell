@@ -4,3 +4,4 @@ To list the directory content
 Change to home directory
 Lists the directory contents
 Lists all hidden files 
+Lists all files numeric IDs
