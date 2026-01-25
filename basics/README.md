@@ -7,3 +7,4 @@ Lists all hidden files
 Lists all files numeric IDs
 Creates a directory in tmp
 Move the betty file
+Delete the betty file
